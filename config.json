@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6289668753326@s.whatsapp.net",
+  "botName": "Kimochi Bot",
+  "ownerName": "Kimochi Chans",
+  "footer": "*2022 © Kimochi*",
+  "apikey": "BELI ATUH",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "Kimochi",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
